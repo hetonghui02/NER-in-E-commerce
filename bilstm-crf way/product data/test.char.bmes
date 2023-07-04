@@ -1,0 +1,323 @@
+高 B-brand
+品 M-brand
+质 E-brand
+男 B-category
+士 E-category
+皮 B-category
+带 M-category
+针 M-category
+扣 E-category
+腰 B-category
+带 M-category
+
+家 B-brand
+庭 M-brand
+装 E-brand
+创 B-category
+意 E-category
+收 B-category
+纳 M-category
+盒 E-category
+
+精 B-brand
+美 M-brand
+化 E-brand
+妆 B-category
+礼 M-category
+盒 E-category
+套 B-category
+装 E-category
+
+时 B-brand
+尚 M-brand
+女 E-brand
+包 B-category
+单 M-category
+肩 E-category
+
+新 B-brand
+款 M-brand
+潮 M-brand
+流 E-brand
+T B-category
+恤 E-category
+男 B-category
+士 E-category
+
+优 B-brand
+质 M-brand
+家 E-brand
+居 B-category
+用 M-category
+品 E-category
+家 B-category
+纺 M-category
+床 E-category
+单 B-category
+品 E-category
+
+运 B-brand
+动 M-brand
+鞋 E-brand
+男 B-category
+士 E-category
+跑 B-category
+步 E-category
+鞋 B-category
+女 E-category
+
+数 B-brand
+码 M-brand
+手 M-brand
+表 E-brand
+智 B-category
+能 E-category
+手 B-category
+环 M-category
+手 M-category
+链 E-category
+
+时 B-brand
+尚 M-brand
+女 E-brand
+针 B-category
+织 M-category
+毛 E-category
+衣 B-category
+连 M-category
+衣 E-category
+
+可 B-brand
+爱 M-brand
+食 M-brand
+品 E-brand
+巧 B-category
+克 M-category
+力 E-category
+巧 B-category
+克 M-category
+力 E-category
+
+养 B-brand
+生 M-brand
+护 E-brand
+套 B-category
+装 E-category
+美 B-category
+容 M-category
+工 M-category
+具 E-category
+
+居 B-brand
+家 M-brand
+用 E-brand
+床 B-category
+品 M-category
+四 M-category
+件 E-category
+套 B-category
+装 E-category
+
+男 B-brand
+士 M-brand
+西 M-brand
+装 E-brand
+T B-category
+恤 E-category
+短 B-category
+袖 M-category
+衬 E-category
+衫 B-category
+
+时 B-brand
+尚 M-brand
+男 E-brand
+针 B-category
+织 M-category
+长 M-category
+袖 E-category
+衬 B-category
+衫 E-category
+
+运 B-brand
+动 M-brand
+帽 E-brand
+女 B-category
+款 M-category
+运 E-category
+动 B-category
+裤 E-category
+
+美 B-brand
+容 M-brand
+护 E-brand
+套 B-category
+装 E-category
+洗 B-category
+发 M-category
+水 E-category
+
+家 B-brand
+居 M-brand
+用 E-brand
+家 B-category
+纺 M-category
+被 E-category
+子 B-category
+四 M-category
+件 E-category
+
+数 B-brand
+码 M-brand
+手 M-brand
+表 E-brand
+智 B-category
+能 E-category
+手 B-category
+链 M-category
+男 E-category
+
+潮 B-brand
+流 M-brand
+女 E-brand
+装 B-category
+时 M-category
+尚 E-category
+连 B-category
+衣 M-category
+裙 E-category
+
+电 B-brand
+子 M-brand
+数 E-brand
+码 B-model
+学 M-model
+习 M-model
+机 E-model
+
+男 B-brand
+士 M-brand
+运 E-brand
+动 B-category
+鞋 M-category
+跑 E-category
+步 B-category
+鞋 E-category
+
+时 B-brand
+尚 M-brand
+女 E-brand
+针 B-category
+织 M-category
+毛 E-category
+线 B-category
+衫 M-category
+长 E-category
+袖 B-category
+连 M-category
+衣 E-category
+
+可 B-brand
+爱 M-brand
+食 M-brand
+品 E-brand
+饼 B-category
+干 M-category
+巧 B-category
+克 M-category
+力 E-category
+
+养 B-brand
+生 M-brand
+护 E-brand
+面 B-category
+膜 M-category
+护 E-category
+肤 B-category
+霜 M-category
+男 E-category
+
+家 B-brand
+居 M-brand
+床 E-brand
+四 B-category
+件 M-category
+套 E-category
+被 B-category
+子 E-category
+
+男 B-brand
+士 M-brand
+西 M-brand
+装 E-brand
+衬 B-category
+衫 E-category
+短 B-category
+袖 M-category
+T B-category
+恤 E-category
+
+迪 B-brand
+奥 M-brand
+斯 E-brand
+运 B-category
+动 E-category
+鞋 B-category
+男 M-category
+款 E-category
+
+飞 B-brand
+利 M-brand
+浦 M-brand
+游 B-category
+泳 M-category
+装 E-category
+
+美 B-brand
+容 M-brand
+护 E-brand
+面 B-category
+膜 M-category
+套 E-category
+
+品 B-brand
+牌 M-brand
+男 E-brand
+士 B-category
+内 M-category
+裤 E-category
+
+女 B-brand
+士 M-brand
+T E-brand
+恤 B-category
+长 M-category
+袖 E-category
+
+户 B-brand
+外 M-brand
+休 E-brand
+闲 B-category
+裤 M-category
+男 E-category
+
+家 B-brand
+纺 M-brand
+家 E-brand
+居 B-category
+服 M-category
+男 E-category
+
+时 B-brand
+尚 M-brand
+女 E-brand
+款 B-category
+连 M-category
+衣 E-category
+
+男 B-brand
+女 M-brand
+情 E-brand
+侣 B-category
+手 M-category
+表 E-category
